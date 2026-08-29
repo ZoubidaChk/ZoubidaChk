@@ -1,21 +1,6 @@
 <div align="center">
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="600">
-    <defs>
-      <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#FF1493" />
-        <stop offset="50%" style="stop-color:#FF69B4" />
-        <stop offset="100%" style="stop-color:#FF1493" />
-        <animate attributeName="x1" values="0%;100%;0%" dur="4s" repeatCount="indefinite" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" fill="#0d0d1a" rx="15" />
-    <text x="50%" y="50%" font-family="Arial" font-size="65" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="url(#flow)">
-      Zoubida Raouane
-    </text>
-  </svg>
-</p>
-
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=F72585&width=700&lines=Hi%2C+I'm+Zoubida+Raouane;AI+%26+Computer+Science+Graduate;AI+Engineer+%26+UI%2FUX+Developer" alt="Typing SVG" />
 
 ### AI & Computer Science Graduate · AI Engineer · UI/UX-minded Developer
 
