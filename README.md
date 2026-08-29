@@ -1,20 +1,22 @@
 <div align="center">
 
-# Hi, I'm Zoubida Raouane ✨
+# Hi, I'm Zoubida Raouane 
 
-### AI & Computer Science Graduate · Future AI Engineer · UI/UX-minded Developer
+### AI & Computer Science Graduate · AI Engineer · UI/UX-minded Developer
 
 *Building thoughtful software with a little creativity and a lot of curiosity.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=ZoubidaChk&color=8fbc8f&style=flat-square&label=profile+views)](https://github.com/ZoubidaChk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6b9b78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoubidarraouanecharrak/)
+[![Discord](https://img.shields.io/badge/Discord-Connect-8fbc8f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1246433674308751411)
 
 </div>
 
 ---
 
-## 🌿 About Me
+##  About Me
 
-I am an **AI and Computer Science graduate** from Djelfa, Algeria, currently pursuing a Master's degree in **Artificial Intelligence and its Applications**. I enjoy building practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
+I am an **AI and Computer Science graduate** from Algeria, and a Master's degree in **Artificial Intelligence and its Applications**. I enjoy building practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
 
 I hold Bachelor's degrees in **Computer Science — Information Systems** and **English Language**. I was ranked in the top three of both Computer Science cohorts and continue learning through academic projects and hands-on experimentation.
 
