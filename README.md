@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zoubida Raouane ✨
+# Hi, I'm Zoubida Raouane 
 
 ### AI & Computer Science Graduate · Future AI Engineer · UI/UX-minded Developer
 
@@ -12,15 +12,15 @@
 
 ---
 
-## 🌿 About Me
+##  About Me
 
-I am an **AI and Computer Science graduate** from Djelfa, Algeria, currently pursuing a Master's degree in **Artificial Intelligence and its Applications**. I enjoy turning ideas into practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
+I am an **AI and Computer Science graduate** from Algeria,and a Master's degree in **Artificial Intelligence and its Applications**. I enjoy turning ideas into practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
 
-I hold Bachelor's degrees in **Computer Science — Information Systems** and **English Language**. I was ranked in the top three of both Computer Science cohorts, and I am always learning through academic projects and hands-on experimentation.
+I hold Bachelor's degrees in **Computer Science — Information Systems** and **English Language**, and I am always learning through academic projects and hands-on experimentation.
 
 -  Interested in AI engineering, software development, data, and design-adjacent roles
 -  Trained in UI/UX and graphic design
--  Languages: Arabic,English and French
+-  Languages: Arabic ,English and French
 -  Algeria
 
 
