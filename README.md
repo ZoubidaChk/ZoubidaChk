@@ -16,17 +16,16 @@
 
 ##  About Me
 
-I am an **AI and Computer Science graduate** from Algeria, and a Master's degree in **Artificial Intelligence and its Applications**. I enjoy building practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
+I am an **AI and Computer Science graduate** from Algeria, with a Master's degree in **Artificial Intelligence and its Applications**. I enjoy building practical software, exploring machine learning, and designing interfaces that feel clear and welcoming.
 
-I hold Bachelor's degrees in **Computer Science — Information Systems** and **English Language**. I was ranked in the top three of both Computer Science cohorts and continue learning through academic projects and hands-on experimentation.
+I hold Bachelor's degrees in **Computer Science — Information Systems** and **English Language**. 
 
-- 🔥 Master's project: **Wildfire detection using deep learning and CNNs**
-- 🧠 Interested in AI engineering, software development, data, and design
-- 🎨 Trained in UI/UX and graphic design
-- 🌍 Languages: Arabic, English, and French
-- 📍 Djelfa, Algeria
+-  Interested in AI engineering, software development, data, and design
+-  Trained in UI/UX and graphic design
+-  Languages: Arabic, English, and French
+-  Algeria
 
-## 💚 My Tech Stack
+##  My Tech Stack
 
 ### Programming & Foundations
 
@@ -63,7 +62,7 @@ I hold Bachelor's degrees in **Computer Science — Information Systems** and **
 
 ---
 
-## 🌱 Featured Projects
+##  Featured Projects
 
 | Project | What it is |
 | --- | --- |
@@ -75,7 +74,7 @@ I hold Bachelor's degrees in **Computer Science — Information Systems** and **
 
 ---
 
-## 🌸 A Little Progress Every Day
+##  A Little Progress Every Day
 
 <div align="center">
 
