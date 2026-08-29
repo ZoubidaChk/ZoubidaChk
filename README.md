@@ -82,7 +82,7 @@ Software engineering · Algorithms · Database design · Creative interfaces
 
 <div align="center">
 
-### A little progress every day 🌿
+### A little progress every day 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZoubidaChk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=b8f2c2&icon_color=8fbc8f&text_color=d8eadd&ring_color=8fbc8f" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoubidaChk&layout=compact&hide_border=true&bg_color=0d1117&title_color=b8f2c2&text_color=d8eadd" height="165" />
