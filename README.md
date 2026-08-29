@@ -1,8 +1,7 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=F72585&width=700&lines=Hi%2C+I'm+Zoubida+Raouane;AI+%26+Computer+Science+Graduate;AI+Engineer+%26+UI%2FUX+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=8CCF7F&width=700&lines=Hi%2C+I'm+Zoubida+Raouane;AI+%26+Computer+Science+Graduate;AI+Engineer+%26+UI%2FUX+Developer" alt="Typing SVG" />
 
-### AI & Computer Science Graduate · AI Engineer · UI/UX-minded Developer
 
 *Building thoughtful software with a little creativity and a lot of curiosity.*
 
