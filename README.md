@@ -78,7 +78,7 @@ I hold Bachelor's degrees in **Computer Science — Information Systems** and **
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/ZoubidaChk?style=for-the-badge&label=followers&color=8fbc8f)](https://github.com/ZoubidaChk)
-[![Public repositories](https://img.shields.io/badge/public%20repositories-9-6b9b78?style=for-the-badge&logo=github)](https://github.com/ZoubidaChk?tab=repositories)
+[![Public repositories](https://img.shields.io/badge/public%20repositories-19-6b9b78?style=for-the-badge&logo=github)](https://github.com/ZoubidaChk?tab=repositories)
 [![Focus](https://img.shields.io/badge/focus-AI%20%26%20Computer%20Science-285943?style=for-the-badge)](https://github.com/ZoubidaChk)
 [![Learning](https://img.shields.io/badge/learning-deep%20learning%20%26%20computer%20vision-4a8061?style=for-the-badge)](https://github.com/ZoubidaChk)
 
