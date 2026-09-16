@@ -7,7 +7,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ZoubidaChk&color=8fbc8f&style=flat-square&label=profile+views)](https://github.com/ZoubidaChk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6b9b78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoubidarraouanecharrak/)
-[![Discord](https://img.shields.io/badge/Discord-Connect-8fbc8f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1246433674308751411)
+[![Discord](https://img.shields.io/badge/Discord-Connect-8fbc8f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1549720466686738603)
 
 </div>
 
